@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "GUI",
   "resources": {
-    "hash": "sha256-1VRLhdXj4QyN39Gd/QGUWrxenxybhlh/uCUyAE3scKI=",
+    "hash": "sha256-pLB+mSXpnnhS5qUbWnMRvzkeZMkfEqUeA4o4pz+Ximk=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Authorization.50odlujk1g.wasm": "Microsoft.AspNetCore.Authorization.wasm",
       "Microsoft.AspNetCore.Components.nxuc56wpt2.wasm": "Microsoft.AspNetCore.Components.wasm",
@@ -195,29 +195,29 @@
       "netstandard.6sr1qvn64m.wasm": "netstandard.wasm",
       "System.Private.CoreLib.tn7ijpxcub.wasm": "System.Private.CoreLib.wasm",
       "dotnet.js": "dotnet.js",
-      "dotnet.native.l4ptthxatg.js": "dotnet.native.js",
-      "dotnet.native.d2w7colv7e.wasm": "dotnet.native.wasm",
-      "dotnet.runtime.drv0pr9n5o.js": "dotnet.runtime.js",
+      "dotnet.native.9ih887ebfz.js": "dotnet.native.js",
+      "dotnet.native.21mns4qp4i.wasm": "dotnet.native.wasm",
+      "dotnet.runtime.st3wwc8rqy.js": "dotnet.runtime.js",
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
       "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
       "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat",
-      "BLL.tnhpcarcse.wasm": "BLL.wasm",
-      "DAL.9nde53ixf9.wasm": "DAL.wasm",
-      "ENTITY.kl6hkazdi2.wasm": "ENTITY.wasm",
-      "BLL.y4rg2riwo2.pdb": "BLL.pdb",
-      "ENTITY.dvl2lfkbk0.pdb": "ENTITY.pdb",
-      "DAL.q8jh5omsrl.pdb": "DAL.pdb",
-      "GUI.d2fhbepmu3.wasm": "GUI.wasm",
-      "GUI.qfxxmoo6k7.pdb": "GUI.pdb"
+      "BLL.ceu7kho6l0.wasm": "BLL.wasm",
+      "DAL.3y5qicxrfe.wasm": "DAL.wasm",
+      "ENTITY.rwf0fx30cp.wasm": "ENTITY.wasm",
+      "BLL.2r9atwupt1.pdb": "BLL.pdb",
+      "ENTITY.aulwbscij2.pdb": "ENTITY.pdb",
+      "DAL.eezay58hlv.pdb": "DAL.pdb",
+      "GUI.3ruk0aid6n.wasm": "GUI.wasm",
+      "GUI.o8unhusurg.pdb": "GUI.pdb"
     },
     "jsModuleNative": {
-      "dotnet.native.l4ptthxatg.js": "sha256-ddUN4+taa/Qv7Mr8mLpunJO+0Xw3ViOqBvedhe57/hA="
+      "dotnet.native.9ih887ebfz.js": "sha256-oS7IRiQoVt9ThQ7Y2UM3XoeY0JqPD02cg9IvRdufn2w="
     },
     "jsModuleRuntime": {
-      "dotnet.runtime.drv0pr9n5o.js": "sha256-yfXUv1l/B489E8p12JxUvxly0JvHL9CCsoZUDlfGH9c="
+      "dotnet.runtime.st3wwc8rqy.js": "sha256-oBRKHAqZUsvCRnCzkQfB7zc45cpKLNq2NKyrG10IKx8="
     },
     "wasmNative": {
-      "dotnet.native.d2w7colv7e.wasm": "sha256-62UC3VfSQyaGpPUm7iSjBYuQ1xD31WdRYY20NQ1K+Vs="
+      "dotnet.native.21mns4qp4i.wasm": "sha256-RtuwNrUOdAJ5A4aS4ZmceO4ySriaYqTdC7X++6yd9lM="
     },
     "icu": {
       "icudt_CJK.tjcz0u77k5.dat": "sha256-SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk=",
@@ -418,16 +418,16 @@
       "WindowsBase.ahs9krftg4.wasm": "sha256-bgi2FHdT0ABsUP1yKQQ2AP8qfo1V/bS/4cJFE4OUHX8=",
       "mscorlib.k5iaovx9v7.wasm": "sha256-mEFLDERlY1HMNQHzh68xOPawXvI48O1fHW9PbfXugb4=",
       "netstandard.6sr1qvn64m.wasm": "sha256-Gpf+qEqCYaCB6zqI5sNPIurnfpwRtfcWksgf3CW6mHE=",
-      "BLL.tnhpcarcse.wasm": "sha256-VzZ6iRe2ndO4yhDSS9JWrEAeFgjEOMY3F4UWaYtsIuA=",
-      "DAL.9nde53ixf9.wasm": "sha256-a1L9KlPPAIuN7ZiD18x3BZaQlaq6Xxl/y8zEEEd+Ntc=",
-      "ENTITY.kl6hkazdi2.wasm": "sha256-WFjWd0gVAkzhkyHfGtZXmtUMe97q8RNnmPJXiimtjB8=",
-      "GUI.d2fhbepmu3.wasm": "sha256-hVlH/TT4ektEgu6Jgj9YP1lutrbfiNK340vqxaOOhtk="
+      "BLL.ceu7kho6l0.wasm": "sha256-pA3/dJbcicMQmToTXgrDMM3zx30TPotxBxFEEXKcJPg=",
+      "DAL.3y5qicxrfe.wasm": "sha256-ZY1HvtiPPT/+bA0UF5Us1BT0oueUOqBWdX2xO+FbFu0=",
+      "ENTITY.rwf0fx30cp.wasm": "sha256-dexiWzHxwqDhHZwYDrsIcuWd754S7kd3HReIAorKK2A=",
+      "GUI.3ruk0aid6n.wasm": "sha256-UV98Pf6tAeHZEE+K/7gAK+JCNNA2+qVXv1DU6Cy2MY8="
     },
     "pdb": {
-      "BLL.y4rg2riwo2.pdb": "sha256-nmSKBGcOEvG1z4FKQVsSb2pvRBQz+0B1a8tJ8fjCjV8=",
-      "ENTITY.dvl2lfkbk0.pdb": "sha256-x1MGy3COy0CP3wkqpPzUH/mXIt2eSVnWSuPeXzRN5+8=",
-      "DAL.q8jh5omsrl.pdb": "sha256-qmDFYcsQVjBkHeQaZ0yjc7xARpa9yPXMyjY7PEUtlSU=",
-      "GUI.qfxxmoo6k7.pdb": "sha256-eqJFp8rGjZGSaF8WcjTAcSndP6As+bGx7WIaRdc+AaE="
+      "BLL.2r9atwupt1.pdb": "sha256-3izMl1EmLGtKm9Xe5IbPsmRKcGYsQmzPSyQV+HBXRoA=",
+      "ENTITY.aulwbscij2.pdb": "sha256-bq4E07nyuVzqj7PwY0ceGzDOZ81sihh4R2e3IUyjo2E=",
+      "DAL.eezay58hlv.pdb": "sha256-StgPwuJ4PBGdNaH03ceIjoEeXr3LTFSIage987VbEEs=",
+      "GUI.o8unhusurg.pdb": "sha256-KN5/ExqzSvOy+4vJnk4Y7wej9V3SnrsWsJhcqHNxYWc="
     }
   },
   "cacheBootResources": true,
